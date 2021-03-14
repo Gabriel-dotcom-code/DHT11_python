@@ -10,4 +10,6 @@ This repository is just a step on what is possible to do, so my advice is: repli
 
 Sometimes the decode() function won't start right away and I could't fix that, if anyone knows feel free to text me!
 
-Thank you and enjoy
+Video on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:6776994686696505344/
+
+Thank you and enjoy.
